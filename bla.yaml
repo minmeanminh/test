@@ -1,0 +1,9 @@
+wordpress:
+    image: wordpress:5.9.0-php8.1-apache
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      WORDPRESS_DB_HOST: wp-db.cbwdllzofllt.ap-southeast-1.rds.amazonaws.com
+      WORDPRESS_DB_USER: admin
+      WORDPRESS_DB_PASSWORD: Asako.2302
