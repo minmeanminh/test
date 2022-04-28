@@ -10,3 +10,5 @@ spec:
   storageClassName: mystorageclass
   hostPath:
     path: "/v1"
+
+thêm thêm 
