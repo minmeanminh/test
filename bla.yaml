@@ -1,4 +1,4 @@
-gwordpress:
+wordpress:
     image: wordpress:5.9.0-php8.1-apache
     restart: always
     ports:
