@@ -7,3 +7,5 @@ wordpress:
       WORDPRESS_DB_HOST: wp-db.cbwdllzofllt.ap-southeast-1.rds.amazonaws.com
       WORDPRESS_DB_USER: admin
       WORDPRESS_DB_PASSWORD: Asako.2302
+      cai gi the nay
+      
