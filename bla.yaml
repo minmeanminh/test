@@ -1,0 +1,8 @@
+gwordpress:
+    image: wordpress:5.9.0-php8.1-apache
+    restart: always
+    ports:
+      - 8080:80
+      nó vậy nè
+      vẫn chưa hiểu cách hoạt động lắm
+
