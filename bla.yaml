@@ -3,4 +3,6 @@ wordpress:
     restart: always
     ports:
       - 8080:80
+      nó vậy nè
+      vẫn chưa hiểu cách hoạt động lắm
 
